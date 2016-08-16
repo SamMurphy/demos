@@ -1,0 +1,6 @@
+{
+  "name": "Sam Murphy Demos",
+  "tagline": "Demos of projects that I'm currently working on or have finished",
+  "body": "### Javascript Terrain Generation - WIP\r\n\r\nGeneration of a tile of terrain using several techniques. Written in javascript, using three.js.\r\n\r\n[Click here to open the demo](/terrain)\r\n\r\n[Click here to go to the source code](https://github.com/SamMurphy/Javascript-Terrain-Generation)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
